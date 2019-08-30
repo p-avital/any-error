@@ -1,0 +1,11 @@
+[package]
+name = "any-error"
+version = "0.1.0"
+authors = ["Pierre Avital <pierre.avital+gitlab@gmail.com>"]
+edition = "2018"
+license = "MPL-2.0"
+keywords = ["error handling", "any"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
