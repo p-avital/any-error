@@ -5,7 +5,7 @@ version = "0.1.0"
 authors = ["Pierre Avital <pierre.avital+gitlab@gmail.com>"]
 edition = "2018"
 license = "MPL-2.0"
-keywords = ["error handling", "any"]
+keywords = ["error-handling", "any"]
 readme = "README.md"
 repository = "https://github.com/p-avital/any-error"
 
